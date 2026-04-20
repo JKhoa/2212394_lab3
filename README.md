@@ -1,8 +1,9 @@
 # CTK46 - Lab 03
 
-Project bai thuc hanh 3 cho mon Cac cong nghe moi trong phat trien phan mem.
+Project bài thực hành 3 cho môn Các công nghệ mới trong phát triển phần mềm.
+Thực hiện: Nguyễn Hoàng Anh Khoa
 
-## Cong nghe su dung
+## Công nghệ sử dụng
 
 - Next.js (App Router, Server Actions, Route Handlers)
 - TypeScript
@@ -10,22 +11,22 @@ Project bai thuc hanh 3 cho mon Cac cong nghe moi trong phat trien phan mem.
 - Zod (Validation)
 - shadcn/ui
 
-## Cach chay
+## Cách chạy
 
 ```bash
 npm install
 npm run dev
 ```
 
-Mo trinh duyet tai `http://localhost:3000`.
+Mở trình duyệt tại `http://localhost:3000`.
 
-## Noi dung da thuc hien
+## Nội dung đã thực hiện
 
-- Fetch data tu JSONPlaceholder API.
-- Ap dung Dynamic Routing cho Blog voi thong tin tac gia tu API.
-- Tao Guestbook API Routes voi cac method GET, POST, DELETE.
-- Su dung Server Actions + Zod de validate form Guestbook va Contact.
-- Tich hop it nhat 3 components cua shadcn/ui vao cac trang.
+- Fetch data từ JSONPlaceholder API.
+- Áp dụng Dynamic Routing cho Blog với thông tin tác giả từ API.
+- Tạo Guestbook API Routes với các phương thức GET, POST, DELETE.
+- Sử dụng Server Actions + Zod để validate form Guestbook và Contact.
+- Tích hợp ít nhất 3 thành phần của shadcn/ui vào các trang.
 
-## Ghi chu
-Du an duoc thuc hien cho bai thuc hanh 3.
+## Ghi chú
+Dự án được thực hiện cho bài thực hành 3 môn Các công nghệ mới trong phần mềm.

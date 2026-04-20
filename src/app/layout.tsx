@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "CTK46 - Lab 01",
-  description: "Bai thuc hanh 1 - Cac cong nghe moi trong PTPM",
+  description: "Bài thực hành 3 - Các công nghệ mới trong PTPM",
 };
 
 export default function RootLayout({

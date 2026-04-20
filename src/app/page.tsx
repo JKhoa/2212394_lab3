@@ -13,7 +13,7 @@ export default function Home() {
           Lop: <strong>CTK46</strong>
         </p>
         <p className="mb-6 text-lg text-slate-700">
-          Mon: <strong>Cac cong nghe moi trong PTPM</strong>
+          Môn: <strong>Các công nghệ mới trong PTPM</strong>
         </p>
 
         <div className="mb-6 rounded-lg bg-blue-100 p-4 text-blue-800">

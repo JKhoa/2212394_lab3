@@ -75,7 +75,7 @@ export default function ContactPage() {
                   id="name"
                   name="name"
                   type="text"
-                  placeholder="Nguyễn Văn A"
+                  placeholder="Nguyễn Hoàng Anh Khoa"
                   required
                   className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
